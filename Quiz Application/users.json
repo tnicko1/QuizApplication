@@ -1,0 +1,12 @@
+{
+  "John Doe": {
+    "Email": "johndoe@gmail.com",
+    "Password": "12345678",
+    "Role": "user"
+  },
+  "Mikheil Nikoleishvili": {
+    "Email": "mishonikoleishvili20@gmail.com",
+    "Password": "1234",
+    "Role": "admin"
+  }
+}
